@@ -1,0 +1,9 @@
+Building ModuaBit
+
+See doc/readme-qt.rst for instructions on building ModuaBit-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ModuaBit.
+
+See doc/build-*.txt for instructions on building moduabitd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ModuaBit.
